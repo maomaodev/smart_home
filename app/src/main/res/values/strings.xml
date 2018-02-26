@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">智能家居</string>
+    <dimen name="padding_top">0dp</dimen>
+    <string name="TAH">温湿度</string>
+    <string name="temp">温度</string>
+    <string name="humi">湿度</string>
+    <string name="LED">灯光</string>
+    <string name="LED_1">灯1:</string>
+    <string name="LED_2">灯2:</string>
+    <string name="LED_switch">开关</string>
+    <string name="LED_state">未知</string>
+    <string name="video">视频</string>
+    <string name="more">设置</string>
+    <string name="ip_setting">ip设置</string>
+    <string name="ip_address">请输入ip地址</string>
+    <string name="ip_edit">编辑</string>
+    <string name="ip_confirm">确认</string>
+</resources>
